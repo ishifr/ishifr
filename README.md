@@ -1,7 +1,5 @@
 ### Hi there :simple_smile:
 
-<!--
-**ishifr/ishifr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: justmr27@gmail.com
 
 - ⚡ Fun fact: I want to learn all useful things :)
--->
+
