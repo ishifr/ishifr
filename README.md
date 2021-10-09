@@ -1,6 +1,5 @@
-### Hi there :simple_smile:
+### Hi there :boy:
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on educational application
 - 🌱 I’m currently learning new things
